@@ -36,7 +36,7 @@ button:hover {
 .imagem-hover {
     width: 300px;
     height: 300px;
-    background-image: url('/assets/images/vhs1.png');
+    background-image: url('../images/vhs1.png');
     background-size: cover;
     background-position: center;
     transition: background-image 0.3s ease;
@@ -45,7 +45,7 @@ button:hover {
 }
 
 .imagem-hover:hover {
-    background-image: url('/assets/images/vhs2.png');
+    background-image: url('../images/vhs2.png');
 }
 
 .audio-controles {
